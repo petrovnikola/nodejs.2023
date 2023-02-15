@@ -1,0 +1,11 @@
+{
+  "name": "cas1.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c.2.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
